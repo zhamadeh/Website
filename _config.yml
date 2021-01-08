@@ -28,7 +28,7 @@ navbar-links:
     - Twitter: "https://twitter.com/hamadeh_zeid"
     - LinkedIn: "https://www.linkedin.com/in/zeid-hamadeh-0aa0a4137/"
   About me: "aboutme"
-  Social: "online"
+  #Social: "online"
 
 # --- Logo --- #
 
