@@ -5,6 +5,9 @@
 
 # --- Required options --- #
 
+plugins:
+  - jekyll-gist
+
 # Name of website
 title: "@zhamadeh"
 
