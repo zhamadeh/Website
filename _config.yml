@@ -30,7 +30,7 @@ navbar-links:
   Extracurriculars:
     - Volleyball Coaching: "https://604volleyball.com"
     - Tutoring: "https://www.conquerstem.com/tutors/zeidhamadeh"
-  About me: "aboutme"
+  #About me: "aboutme"
   #Social: "online"
 
 # --- Logo --- #
