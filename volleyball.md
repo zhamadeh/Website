@@ -8,6 +8,6 @@ subtitle: Athlete and Coach
 </iframe>
 
 <h1> Indoor volleyball </h1>
-<iframe width="820" height="345" align="centre" src="https://www.youtube.com/embed/91ZuySJKj3E&t=2s?controls=0">
+<iframe width="820" height="345" align="centre" src="https://www.youtube.com/embed/91ZuySJKj3E">
 </iframe>
 <img align="right" src="/assets/img/vball2.jpg" width="42%" style="margin:15px 15px;border-radius: 1px">![]("https://github.com/zhamadeh/zhamadeh.github.io/blob/master/assets/img/vball2.jpg")
