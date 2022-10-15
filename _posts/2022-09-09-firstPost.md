@@ -13,10 +13,12 @@ Cancer is a disease of the genome<sup>1</sup>. The human genome is constantly ch
 
 In my research, I study the role of DNA helicases: essential genes that repair DNA damage and prevent mutations from occurring in the genomes of cells. The gene class, RecQ helicases, have been implicated in aging and cancer due to their association with rapid aging syndromes that are susceptible to cancer. RECQL5 is one gene in this class that has remained understudied for its role in DNA repair. Until recently, studying DNA repair has been limited to molecular methods which suffer from limited resolution and throughput. I used a novel single cell sequencing method, known as Strand-seq, to identify genomic regions prone to DNA repair. I developed novel wet-lab and bioinformatic methods to improve the overall quality of DNA repair studies in single cells using Strand-seq. I found that that specific regions in the genome are troublesome for replication and RecQ helicases have a protective role in the faithful replication of DNA in these areas.
 
+<div style="font-size: 10px" >
 1. 	MacConaill LE, Garraway LA. Clinical Implications of the Cancer Genome. J Clin Oncol. 2010;28(35):5219. doi:10.1200/JCO.2009.27.4944
 2. 	Jeggo PA, Pearl LH, Carr AM. DNA repair, genome stability and cancer: A historical perspective. Nat Rev Cancer. 2016;16(1):35-42. doi:10.1038/nrc.2015.4
 3. 	Zell J, Sperti FR, Britton S, Monchaud D. DNA folds threaten genetic stability and can be leveraged for chemotherapy. RSC Chem Biol. 2021;2(1):47-76. doi:10.1039/d0cb00151a
 4. 	Negrini S, Gorgoulis VG, Halazonetis TD. Genomic instability — an evolving hallmark of cancer. Nat Rev Mol Cell Biol. 2010;11(3):220-228. doi:10.1038/nrm2858
 5. 	Aguilera A, Gómez-González B. Genome instability: a mechanistic view of its causes and consequences. Nat Rev Genet. 2008;9(3):204-217. doi:10.1038/NRG2268
-6. 	Bakhoum SF, Landau DA. Chromosomal Instability as a Driver of Tumor Heterogeneity and Evolution. Cold Spring Harb Perspect Med. 2017;7(6). doi:10.1101/CSHPERSPECT.A029611
+6. 	Bakhoum SF, Landau DA. Chromosomal Instability as a Driver of Tumor Heterogeneity and Evolution. Cold Spring Harb Perspect Med. 2017;7(6). doi:10.1101
 
+ </div>
