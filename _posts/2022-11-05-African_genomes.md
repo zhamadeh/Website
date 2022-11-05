@@ -1,6 +1,6 @@
 ---
 layout: post
-title: African genomes: from disparity to diversity
+title: "African genomes: from disparity to diversity"
 subtitle: The under- and misrepresentation of African genomes
 gh-repo: zhamadeh/zhamadeh.github.io
 gh-badge: [star, fork, follow]
@@ -47,5 +47,4 @@ References
 <a href="https://dsi-africa.org">https://dsi-africa.org</a>
 <br>
 <a href="https://h3africa.org">https://h3africa.org</a>
-
 
