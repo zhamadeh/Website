@@ -17,7 +17,7 @@ There is an overwhelming abundance of genomes from European-descent and underrep
  margin: 0 0 25px;
  overflow: hidden;
  padding: 20px;
- background-color: #76FFFF;"
+ background-color: #76FFFF;">
  
 Box: a few key definitions to keep in mind in a post-colonial society
 Ancestry: refers to a person’s ethnic origin or descent
