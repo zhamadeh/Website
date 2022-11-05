@@ -19,11 +19,13 @@ There is an overwhelming abundance of genomes from European-descent and underrep
  padding: 20px;
  background-color: #76FFFF;">
  
-Box: a few key definitions to keep in mind in a post-colonial society
-Ancestry: refers to a person’s ethnic origin or descent
-Race: refers to a socially constructed category relating to shared perceived physical traits 
-Ethnicity: refers to a person’s shared ancestry and race with a large group of people
-Nationality: refers to what country an individual has citizenship or shared ancestry with
+<u><strong>Box 1: Key definitions concerning identity</strong><br></u>
+<i>
+<b>Ancestry:</b> <i>refers to a person’s ethnic origin or descent</i>
+<br><b>Race:</b> <i>refers to a socially constructed category relating to shared perceived physical traits </i>
+<br><b>Ethnicity:</b> <i>refers to a person’s shared ancestry and race with a large group of people </i>
+<br><b>Nationality:</b> <i>refers to what country an individual has citizenship or shared ancestry with</i>
+</i>
 
 </div>
 For example, some ethnic groups have been under persecution for centuries and thus individuals that have descended from these groups have accumulated a unique genetic makeup to reflect that. Some ethnic groups have experienced less mixing of ancestry with other groups and thus have allowed genetic diseases to accumulate in a group. These differences can inform genetic counselling and the diagnosis of disease and therapeutic decisions where one drug may better at treating a patient of one ethnicity than another. 
@@ -33,8 +35,9 @@ The solution is not as simple as “hey, let’s just sequence more African geno
 
 This will bring about an unseen level of granularity in distinguishing different subgroups of different ancestry within Africa as is seen for European genomes. African genomes possess more genetic diversity than any other continent on Earth. Adding genomes of such tremendous diversity to the body of genomics research will undoubtedly improve our understanding of genetic diversity in humans and i
 
-
+<h3>
 References
+</h3>
 https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1740-1
 https://www.science.org/content/article/africans-begin-take-reins-research-their-owngenomes
 
