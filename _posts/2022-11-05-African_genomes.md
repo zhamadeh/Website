@@ -2,10 +2,10 @@
 layout: post
 title: African genomes: from disparity to diversity
 subtitle: The role of DNA repair in cancer
-gh-repo: zhamadeh/Website
+gh-repo: zhamadeh/zhamadeh.github.io
 gh-badge: [star, fork, follow]
 tags: [Cancer,DNA repair]
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/cancer.png
 comments: true
 ---
 
