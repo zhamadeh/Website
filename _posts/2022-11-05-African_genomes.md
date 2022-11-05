@@ -39,9 +39,13 @@ Bringing more genomics research to Africa will result in far more African genome
 References
 </h3>
 <a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1740-1">https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1740-1</a>
+<br>
 <a href="https://www.science.org/content/article/africans-begin-take-reins-research-their-own-genomes">https://www.science.org/content/article/africans-begin-take-reins-research-their-own-genomes</a>
+<br>
 <a href="https://www.nationalgeographic.com/culture/article/race-ethnicity">https://www.nationalgeographic.com/culture/article/race-ethnicity</a>
+<br>
 <a href="https://dsi-africa.org">https://dsi-africa.org</a>
-<a href="https://h3africa.org">https://h3africa.org </a>
+<br>
+<a href="https://h3africa.org">https://h3africa.org</a>
 
 
