@@ -13,13 +13,19 @@ African genomes are both under- and misrepresented in sequencing studies and gen
 
 There is an overwhelming abundance of genomes from European-descent and underrepresentation of African genomes in genomics studies worldwide. Africa makes up about 17% of the World’s population yet African genomes make up only 2% of genomic studies whereas those of European descent make up ~18% of the World’s population and 78% of genomic studies. For European genomes, we have the highest level of granularity at distinguishing European genomes of different and shared ancestry. For example, you can distinguish those of Finnish descent from Norwegian descent despite the shared Scandinavian ancestry. This level of granularity does not exist for African genomes. Additionally, erroneous ideas about genetic “races” are abundant and have collapsed tremendous amounts of diversity that exists between those of Caribbean, American and African descent into singular categories such as “Black” that are still used in genomics research. This creates a problem of equity for genomics research and precision medicine. Genomics research strives to highlight the important genetic differences that exist between individuals of different groups. To be clear, here is what I mean by race, ethnicity, nationality and ancestry:
 
-
+<div style="border-left: 8px solid #00CBCC;
+ margin: 0 0 25px;
+ overflow: hidden;
+ padding: 20px;
+ background-color: #76FFFF;"
+ 
 Box: a few key definitions to keep in mind in a post-colonial society
 Ancestry: refers to a person’s ethnic origin or descent
 Race: refers to a socially constructed category relating to shared perceived physical traits 
 Ethnicity: refers to a person’s shared ancestry and race with a large group of people
 Nationality: refers to what country an individual has citizenship or shared ancestry with
 
+</div>
 For example, some ethnic groups have been under persecution for centuries and thus individuals that have descended from these groups have accumulated a unique genetic makeup to reflect that. Some ethnic groups have experienced less mixing of ancestry with other groups and thus have allowed genetic diseases to accumulate in a group. These differences can inform genetic counselling and the diagnosis of disease and therapeutic decisions where one drug may better at treating a patient of one ethnicity than another. 
 
 The solution is not as simple as “hey, let’s just sequence more African genomes”. Efforts to do so would and have already been shown to result in European and North American research institutes taking samples from certain populations and not helping the groups they are intended to. Genomics research itself needs to be brought to Africa and this is already well underway with initiatives like DSI and 3HAfrica. Bringing more genomics research to Africa will result in far more African genomes being sequenced, shared and analyzed. 
