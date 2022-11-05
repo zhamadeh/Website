@@ -1,6 +1,6 @@
 ---
 layout: post
-title: African genomes-from disparity to diversity
+title: African genomes: from disparity to diversity
 subtitle: The under- and misrepresentation of African genomes
 gh-repo: zhamadeh/zhamadeh.github.io
 gh-badge: [star, fork, follow]
@@ -38,9 +38,10 @@ Bringing more genomics research to Africa will result in far more African genome
 <h3>
 References
 </h3>
-https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1740-1
-https://www.science.org/content/article/africans-begin-take-reins-research-their-own-genomes
-https://dsi-africa.org
-https://h3africa.org
+<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1740-1">https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1740-1</a>
+<a href="https://www.science.org/content/article/africans-begin-take-reins-research-their-own-genomes">https://www.science.org/content/article/africans-begin-take-reins-research-their-own-genomes</a>
+<a href="https://www.nationalgeographic.com/culture/article/race-ethnicity">https://www.nationalgeographic.com/culture/article/race-ethnicity</a>
+<a href="https://dsi-africa.org">https://dsi-africa.org</a>
+<a href="https://h3africa.org">https://h3africa.org </a>
 
 
