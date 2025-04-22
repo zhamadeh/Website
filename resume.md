@@ -1,57 +1,78 @@
 ---
 layout: page
-title: Resume
-subtitle: Clinical Scientist & Genome Analyst
+title: About
+subtitle: Clinical Scientist, Educator, and Athlete
 ---
 
-<h1> About Me </h1>
-
+<h1>About Me</h1>
 <p>
-My work as a clinical scientist and genome analyst at Vancouver General Hospital focuses on using genomic technologies—like long-read sequencing and optical genome mapping—to improve diagnostics for blood cancers and rare genetic disorders. I completed my PhD in Genome Science and Technology at UBC, where I now also teach as a Clinical Instructor in the Faculty of Medicine.
+My work as a clinical scientist and genome analyst at Vancouver General Hospital focuses on using genetic sequencing and bioinformatics to support cancer diagnostics and research. I completed my PhD in Genome Science and Technology at the University of British Columbia (UBC), where I also hold a faculty appointment as a Clinical Instructor in the Department of Pathology & Laboratory Medicine. I'm currently pursuing my MD at UBC as part of the Class of 2028.
 </p>
 
-<h1> Education </h1>
+<h1>Education</h1>
 <ul>
-  <li><strong>MD (in progress)</strong>, University of British Columbia, Class of 2028</li>
-  <li><strong>PhD, Genome Science & Technology</strong>, University of British Columbia (2018–2022)</li>
+  <li><strong>Doctor of Medicine (MD)</strong>, University of British Columbia (2024–2028)</li>
+  <li><strong>PhD, Genome Science and Technology</strong>, University of British Columbia (2018–2022)</li>
   <li><strong>BSc Honours, Interdisciplinary Medical Sciences</strong>, Western University (2014–2018)</li>
 </ul>
 
-<h1> Current Roles </h1>
+<h1>Current Appointments</h1>
 <ul>
-  <li>Clinical Scientist, Cytogenomics Department, Vancouver General Hospital</li>
-  <li>Clinical Instructor, Department of Pathology & Laboratory Medicine, UBC</li>
+  <li><strong>Genome Analyst</strong>, Cytogenomics Department, Vancouver General Hospital</li>
+  <li><strong>Clinical Instructor</strong>, Department of Pathology & Laboratory Medicine, UBC</li>
 </ul>
 
-<h1> Research Interests </h1>
+<h1>Research Interests</h1>
 <ul>
-  <li>Clinical cancer genomics & molecular diagnostics</li>
-  <li>Single-cell genome analysis & structural variant detection</li>
-  <li>Translational research in hematological malignancies</li>
+  <li>Cancer genomics and structural variant detection</li>
+  <li>Long-read sequencing and optical genome mapping</li>
+  <li>Clinical diagnostics and translational research in hematological malignancies</li>
 </ul>
 
-<h1> Selected Publications </h1>
+<h1>Publications & Presentations</h1>
+<p>For a full list of peer-reviewed publications, platform presentations, and poster presentations, see my CV or browse selected highlights below.</p>
+
+<h2>Selected Publications</h2>
 <ul>
-  <li><strong>Hamadeh Z</strong>, et al. <em>Clinical Validation of Optical Genome Mapping as a Front-Line Diagnostic Test for Hematological Neoplasms</em>. Current Oncology (2025)</li>
-  <li><strong>Hamadeh Z</strong>, et al. <em>Nanopore Long-Read Sequencing and Applications in AML</em>. Canadian Journal of Pathology (2024)</li>
-  <li><strong>Hamadeh Z</strong>, Lansdorp P. <em>Mapping of Sister Chromatid Exchange Events in Single Cells</em>. Methods (2022)</li>
+  <li>Hamadeh Z, et al. <em>Clinical Validation of Optical Genome Mapping...</em> Current Oncology (2025)</li>
+  <li>Hamadeh Z, et al. <em>Nanopore Long-Read Sequencing in AML</em>. Canadian Journal of Pathology (2024)</li>
+  <li>Hamadeh Z, Lansdorp P. <em>Mapping of Sister Chromatid Exchange Events...</em> Methods (2022)</li>
 </ul>
 
-<h1> Speaking Engagements </h1>
+<h2>Recent Conference Presentations</h2>
 <ul>
-  <li>ACMG 2024 – Optical Genome Mapping for Blood Cancer Diagnostics</li>
-  <li>Canadian College of Medical Geneticists – Cryptic KMT2A Rearrangements</li>
-  <li>Precision Health Catalyst – AML Genotyping with ONT + OGM</li>
+  <li>ACMG 2024: Clinical Validation of OGM in Hematological Neoplasms</li>
+  <li>CCMG 2023: Uncovering Cryptic KMT2A Rearrangements</li>
+  <li>UBC Precision Health 2024: Integrating ONT and OGM in AML</li>
 </ul>
 
-<h1> Leadership & Mentorship </h1>
+<h1>Grants & Awards</h1>
 <ul>
-  <li>Equity, Diversity, and Inclusion Committee Member (UBC Medicine & BC Cancer)</li>
-  <li>Past President, GSAT Student Association, UBC</li>
-  <li>Research supervisor to graduate and undergraduate trainees in genomics</li>
+  <li>Precision Health Catalyst Grant (Co-Investigator), 2023–Present</li>
+  <li>President’s Academic Excellence Initiative Awards (2021, 2022)</li>
+  <li>UBC GSAT Exchange Grant (2019)</li>
+  <li>Multiple varsity athletic and academic scholarships (2014–2019)</li>
 </ul>
 
-<h1> Outside the Lab </h1>
-<p>
-I’m a former national-level beach volleyball athlete and remain active in the sport as a coach and mentor. I’ve coached youth teams, founded a high-performance beach volleyball program, and trained with Team Canada.
-</p>
+<h1>Teaching & Supervision</h1>
+<ul>
+  <li>Faculty Instructor for medical students and hematopathology residents at UBC</li>
+  <li>Supervised graduate and undergraduate research trainees on genome sequencing techniques</li>
+</ul>
+
+<h1>Leadership & Service</h1>
+<ul>
+  <li>EDI Committee Member – UBC Faculty of Medicine & BC Cancer</li>
+  <li>President, GSAT Student Association (2018–2022)</li>
+  <li>Founder and tutor, Conquer STEM academic mentorship initiative</li>
+  <li>Science Fair Judge – Greater Vancouver Regional Science Fair (2019–2023)</li>
+</ul>
+
+<h1>Volleyball & Athletics</h1>
+<ul>
+  <li><strong>Team Canada Beach Volleyball</strong> (2019–2020): Competed internationally</li>
+  <li><strong>UBC & Western Varsity Volleyball</strong> (2014–2019): Academic All-Canadian, team leader</li>
+  <li><strong>Founder</strong>, Pacific Elite Beach Volleyball (2019–2020): High-performance training club</li>
+  <li><strong>Head Coach</strong>, 604 Volleyball Club (2021–2024): 16U–18U boys</li>
+  <li><strong>Camp Leader</strong>, Madawaska Camps (2015–2025): Youth development through sport</li>
+</ul>
