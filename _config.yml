@@ -33,6 +33,8 @@ navbar-links:
     - UBC Profile: "https://pathology.ubc.ca/2024/02/27/hamadeh-zeid/"
   Extracurriculars:
     - Volleyball: "volleyball"
+  Resume:
+    - Resume: "resume"
   #About me: "aboutme"
   #Social: "online"
 
