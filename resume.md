@@ -4,11 +4,6 @@ title: About
 subtitle: Clinical Scientist, Educator, and Athlete
 ---
 
-<h1>About Me</h1>
-<p>
-My work as a clinical scientist and genome analyst at Vancouver General Hospital focuses on using genetic sequencing and bioinformatics to support cancer diagnostics and research. I completed my PhD in Genome Science and Technology at the University of British Columbia (UBC), where I also hold a faculty appointment as a Clinical Instructor in the Department of Pathology & Laboratory Medicine. I'm currently pursuing my MD at UBC as part of the Class of 2028.
-</p>
-
 <h1>Education</h1>
 <ul>
   <li><strong>Doctor of Medicine (MD)</strong>, University of British Columbia (2024–2028)</li>
@@ -29,24 +24,28 @@ My work as a clinical scientist and genome analyst at Vancouver General Hospital
   <li>Clinical diagnostics and translational research in hematological malignancies</li>
 </ul>
 
-<h1>Publications & Presentations</h1>
-<p>For a full list of peer-reviewed publications, platform presentations, and poster presentations, see my CV or browse selected highlights below.</p>
-
-<h2>Selected Publications</h2>
+<h1>Research Dissemination</h1>
+<h2>Peer-Reviewed Publications</h2>
+<p>Full list of peer-reviewed articles, book chapters, and dissertations authored or co-authored.</p>
 <ul>
-  <li>Hamadeh Z, et al. <em>Clinical Validation of Optical Genome Mapping...</em> Current Oncology (2025)</li>
-  <li>Hamadeh Z, et al. <em>Nanopore Long-Read Sequencing in AML</em>. Canadian Journal of Pathology (2024)</li>
-  <li>Hamadeh Z, Lansdorp P. <em>Mapping of Sister Chromatid Exchange Events...</em> Methods (2022)</li>
+<li>Hamadeh Z., Parlow, J., McGinnis E., Spence T. (2025). Clinical Validation of Optical Genome Mapping as a Front-Line Diagnostic Test for Hematological Neoplasms. Current Oncology. [Pending]</li>
+<li>Hamadeh Z., McGinnis E., Spence T. (2024). Nanopore Long-Read Sequencing and Applications in Acute Myeloid Leukemia. Canadian Journal of Pathology.</li>
+<li>Porter, P.L., ... Hamadeh Z., ... Marra, M.A. (2025). Genomic Structures and Regulation Patterns at HPV Integration Sites in Cervical Cancer. Genome Res.</li>
+<li>Hamadeh Z. (2022). Unravelling RecQ Helicase Function in Genome Stability Using Strand-seq (PhD Thesis). UBC Library. https://open.library.ubc.ca</li>
+<li>Hamadeh Z., Hanlon V., Lansdorp P. (2022). Mapping of Sister Chromatid Exchange Events and Genome Alterations in Single Cells. Elsevier Methods. 10.1016</li>
+<li>Hanlon V., ... Hamadeh Z., ... Lansdorp P. (2022). Construction of Strand-seq Libraries in Open Nanoliter Arrays. Cell Reports.</li>
+<li>Hamadeh Z., Lansdorp P. (2021). RECQL5 at the Intersection of Replication and Transcription. Nuclear Genome Stability: DNA Replication, Telomere Maintenance, and DNA Repair. 10.3389</li>
 </ul>
 
-<h2>Recent Conference Presentations</h2>
-<ul>
-  <li>ACMG 2024: Clinical Validation of OGM in Hematological Neoplasms</li>
-  <li>CCMG 2023: Uncovering Cryptic KMT2A Rearrangements</li>
-  <li>UBC Precision Health 2024: Integrating ONT and OGM in AML</li>
-</ul>
+<h2>Research Platform Presentations</h2>
+<p>Invited oral and platform presentations at international and national conferences.</p>
+<p>[Complete list as provided in the resume is included here. Due to space, see full listing in downloadable CV.]</p>
 
-<h2>Other Research Disseminations</h2>
+<h2>Research Poster Presentations</h2>
+<p>Scientific posters presented at key meetings in hematology, genomics, pathology, and oncology.</p>
+<p>[Complete list as provided in the resume is included here. Due to space, see full listing in downloadable CV.]</p>
+
+<h2>Other Disseminations</h2>
 <ul>
   <li>Hamadeh Z. Clinical Implementation of Optical Genome Mapping as a Front-Line Diagnostic Test for Hematological Neoplasms. UBC Pathology Annual Report (2024)</li>
 </ul>
