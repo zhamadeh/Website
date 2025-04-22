@@ -46,6 +46,11 @@ My work as a clinical scientist and genome analyst at Vancouver General Hospital
   <li>UBC Precision Health 2024: Integrating ONT and OGM in AML</li>
 </ul>
 
+<h2>Other Research Disseminations</h2>
+<ul>
+  <li>Hamadeh Z. Clinical Implementation of Optical Genome Mapping as a Front-Line Diagnostic Test for Hematological Neoplasms. UBC Pathology Annual Report (2024)</li>
+</ul>
+
 <h1>Grants & Awards</h1>
 <ul>
   <li>Precision Health Catalyst Grant (Co-Investigator), 2023–Present</li>
