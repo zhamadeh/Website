@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Clinical Scientist, Educator, and Athlete
+title: Zeid Hamadeh
+subtitle: 
 ---
 
 <h1>Education</h1>
