@@ -16,10 +16,10 @@ author: Zeid H
 
 navbar-links:
   Blog: 
-    - African genomes: "https://zeidhamadeh.com/2022-11-05-African_genomes/"
-    - Epigenetic inheritance: "https://zeidhamadeh.com/2021-05-06-tgei/"
-    - Hidden heritability: "https://zeidhamadeh.com/2020-03-27-Hidden_heritability/"
-    - DNA repair : "https://zeidhamadeh.com/2019-09-09-DNA.repair/"
+    - Global Genomic Gap: "https://zeidhamadeh.com/2022-11-05-African_genomes/"
+    - Epigenetic Inheritance: "https://zeidhamadeh.com/2021-05-06-tgei/"
+    - Hidden Heritability: "https://zeidhamadeh.com/2020-03-27-Hidden_heritability/"
+    - DNA Repair : "https://zeidhamadeh.com/2019-09-09-DNA.repair/"
     - Cancer: "https://zeidhamadeh.com/2016-11-21-cancer/"
   Publications: 
     - Single-Cell Sequencing: "https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00227-7"
@@ -54,7 +54,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "zhamadeh@bccrc.ca"
+  email: "zeid.hamadeh@vch.ca"
   github: zhamadeh
   twitter: hamadeh_zeid
   youtube: zhamadeh
