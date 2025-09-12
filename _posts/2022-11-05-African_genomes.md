@@ -67,15 +67,17 @@ So when we use race as a stand-in for ancestry, we risk reinforcing the very ine
  margin: 0 0 25px;
  overflow: hidden;
  padding: 20px;
- background-color: #76FFFF;">
- 
-<u><strong>Box 1: Key definitions concerning identity</strong><br></u>
-<i>
-<b>Ancestry:</b> <i>a person’s ethnic origin or descent</i>
-<br><b>Race:</b> <i>a socially constructed category relating to perceived physical traits</i>
-<br><b>Ethnicity:</b> <i>shared ancestry and cultural identity within a larger group</i>
-<br><b>Nationality:</b> <i>a person’s citizenship or national belonging</i>
-</i>
+ background-color: #E6FFFF;">
+
+<strong style="text-decoration: underline;">Box 1: Key definitions of identity</strong><br><br>
+
+<p><b>Ancestry:</b> the genetic origin or lineage of a person, reflecting where their biological ancestors come from.</p>
+
+<p><b>Race:</b> a socially constructed category based on perceived physical traits (such as skin color). Race has no precise biological basis, but has real social and historical consequences.</p>
+
+<p><b>Ethnicity:</b> a shared cultural identity that may include common ancestry, language, traditions, or history within a group of people.</p>
+
+<p><b>Nationality:</b> a legal or political identity describing a person’s citizenship or formal belonging to a nation-state.</p>
 
 </div>
 
