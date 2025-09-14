@@ -15,13 +15,13 @@ author: Zeid H
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: 
+  Writing: 
     - Global Genomic Gap: "https://zeidhamadeh.com/2022-11-05-African_genomes/"
     - Epigenetic Inheritance: "https://zeidhamadeh.com/2021-05-06-tgei/"
     - Hidden Heritability: "https://zeidhamadeh.com/2020-03-27-Hidden_heritability/"
     - DNA Repair : "https://zeidhamadeh.com/2019-09-09-DNA.repair/"
     - Cancer: "https://zeidhamadeh.com/2016-11-21-cancer/"
-  Publications: 
+  Research: 
     - Single-Cell Sequencing: "https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00227-7"
     - DNA Repair in Hereditary Cancer: "https://www.frontiersin.org/articles/10.3389/fcell.2020.00324/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Cell_and_Developmental_Biology&id=540154"
     - Genome Instability in Cancer: "https://www.sciencedirect.com/science/article/abs/pii/S1046202322001025"
@@ -32,6 +32,8 @@ navbar-links:
     - LinkedIn: "https://www.linkedin.com/in/zeid-hamadeh-0aa0a4137/"
     - UBC Profile: "https://pathology.ubc.ca/2024/02/27/hamadeh-zeid/"
     - Volleyball: "https://zeidhamadeh.com/volleyball/"
+  Projects:
+    - Optical Genome Mapping: "https://zeidhamadeh.com/Optical-genome-mapping/"
 
   #About me: "aboutme"
   #Social: "online"
